@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dogfight Game.Plugins", "Dogfight Game.Plugins.csproj", "{28726A0B-B17D-C985-2690-606EC56203EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dogfight Game", "Dogfight Game.csproj", "{8D5FE613-5814-9AC1-738E-B66FB81EAA45}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dogfight Game.Editor", "Dogfight Game.Editor.csproj", "{0F05D6C7-4250-F13C-84B3-AB0F2EB4576D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dogfight Game.Editor", "Dogfight Game.Editor.csproj", "{0F05D6C7-4250-F13C-84B3-AB0F2EB4576D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dogfight Game.Editor.Plugins", "Dogfight Game.Editor.Plugins.csproj", "{F555233F-80C0-EDB7-C27A-F840D9243212}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28726A0B-B17D-C985-2690-606EC56203EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28726A0B-B17D-C985-2690-606EC56203EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28726A0B-B17D-C985-2690-606EC56203EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28726A0B-B17D-C985-2690-606EC56203EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D5FE613-5814-9AC1-738E-B66FB81EAA45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D5FE613-5814-9AC1-738E-B66FB81EAA45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D5FE613-5814-9AC1-738E-B66FB81EAA45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D5FE613-5814-9AC1-738E-B66FB81EAA45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F05D6C7-4250-F13C-84B3-AB0F2EB4576D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F05D6C7-4250-F13C-84B3-AB0F2EB4576D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F05D6C7-4250-F13C-84B3-AB0F2EB4576D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F05D6C7-4250-F13C-84B3-AB0F2EB4576D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F05D6C7-4250-F13C-84B3-AB0F2EB4576D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F05D6C7-4250-F13C-84B3-AB0F2EB4576D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F05D6C7-4250-F13C-84B3-AB0F2EB4576D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F05D6C7-4250-F13C-84B3-AB0F2EB4576D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F555233F-80C0-EDB7-C27A-F840D9243212}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F555233F-80C0-EDB7-C27A-F840D9243212}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F555233F-80C0-EDB7-C27A-F840D9243212}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F555233F-80C0-EDB7-C27A-F840D9243212}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
