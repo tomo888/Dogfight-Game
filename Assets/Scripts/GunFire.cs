@@ -2,7 +2,7 @@
 using System.Collections;
 
 
-public class FireGun : MonoBehaviour
+public class GunFire : MonoBehaviour
 {
 
 
